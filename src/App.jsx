@@ -16,6 +16,7 @@ function App() {
           <img src={viteLogo} className="vite" alt="Vite logo" />
         </div>
         <div>
+<<<<<<< HEAD
 
           <h1>(Main-Branch)-main branch</h1>
 
