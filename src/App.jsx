@@ -16,13 +16,9 @@ function App() {
           <img src={viteLogo} className="vite" alt="Vite logo" />
         </div>
         <div>
-<<<<<<< HEAD
 
           <h1>(Main-Branch)-main branch</h1>
 
-=======
-          <h1>(Main-Branch)-main branch-main branch</h1>
->>>>>>> main
           <p>
             Edit <code>src/App.jsx</code> and save to test <code>HMR</code>
           </p>
