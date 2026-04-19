@@ -17,6 +17,7 @@ function App() {
         </div>
         <div>
           <h1>Development branch - Ajay sharma</h1>
+          <h1>Development branch - RANJEET GUPTA</h1>
           <p>
             Edit <code>src/App.jsx</code> and save to test <code>HMR</code>
           </p>
